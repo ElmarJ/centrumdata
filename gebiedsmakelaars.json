@@ -1,0 +1,290 @@
+{
+    _links: {
+        self: {
+            href: "https://api.data.amsterdam.nl/gebieden/buurt/?format=json"
+        },
+        next: {
+            href: "https://api.data.amsterdam.nl/gebieden/buurt/?format=json&page=2"
+        },
+        previous: {
+            href: null
+        }
+    },
+    count: 481,
+    results: [{
+            _links: {
+                self: {
+                    href: "https://api.data.amsterdam.nl/gebieden/buurt/03630000000798/?format=json"
+                }
+            },
+            _display: "Aalsmeerwegbuurt Oost (K44d)",
+            code: "44d",
+            naam: "Aalsmeerwegbuurt Oost",
+            dataset: "gebieden"
+        },
+        {
+            _links: {
+                self: {
+                    href: "https://api.data.amsterdam.nl/gebieden/buurt/03630000000797/?format=json"
+                }
+            },
+            _display: "Aalsmeerwegbuurt West (K44c)",
+            code: "44c",
+            naam: "Aalsmeerwegbuurt West",
+            dataset: "gebieden"
+        },
+        {
+            _links: {
+                self: {
+                    href: "https://api.data.amsterdam.nl/gebieden/buurt/03630000000532/?format=json"
+                }
+            },
+            _display: "Afrikahaven (B10g)",
+            code: "10g",
+            naam: "Afrikahaven",
+            dataset: "gebieden"
+        },
+        {
+            _links: {
+                self: {
+                    href: "https://api.data.amsterdam.nl/gebieden/buurt/03630023753969/?format=json"
+                }
+            },
+            _display: "Alexanderplein e.o. (A08e)",
+            code: "08e",
+            naam: "Alexanderplein e.o.",
+            dataset: "gebieden"
+        },
+        {
+            _links: {
+                self: {
+                    href: "https://api.data.amsterdam.nl/gebieden/buurt/03630000000527/?format=json"
+                }
+            },
+            _display: "Alfa-driehoek (B10b)",
+            code: "10b",
+            naam: "Alfa-driehoek",
+            dataset: "gebieden"
+        },
+        {
+            _links: {
+                self: {
+                    href: "https://api.data.amsterdam.nl/gebieden/buurt/03630000000490/?format=json"
+                }
+            },
+            _display: "AMC (T92f)",
+            code: "92f",
+            naam: "AMC",
+            dataset: "gebieden"
+        },
+        {
+            _links: {
+                self: {
+                    href: "https://api.data.amsterdam.nl/gebieden/buurt/03630000000531/?format=json"
+                }
+            },
+            _display: "Amerikahaven (B10f)",
+            code: "10f",
+            naam: "Amerikahaven",
+            dataset: "gebieden"
+        },
+        {
+            _links: {
+                self: {
+                    href: "https://api.data.amsterdam.nl/gebieden/buurt/03630000000781/?format=json"
+                }
+            },
+            _display: "Amstelglorie (M58e)",
+            code: "58e",
+            naam: "Amstelglorie",
+            dataset: "gebieden"
+        },
+        {
+            _links: {
+                self: {
+                    href: "https://api.data.amsterdam.nl/gebieden/buurt/03630000000486/?format=json"
+                }
+            },
+            _display: "Amstel III deel A/B Noord (T92b)",
+            code: "92b",
+            naam: "Amstel III deel A/B Noord",
+            dataset: "gebieden"
+        },
+        {
+            _links: {
+                self: {
+                    href: "https://api.data.amsterdam.nl/gebieden/buurt/03630000000488/?format=json"
+                }
+            },
+            _display: "Amstel III deel A/B Zuid (T92d)",
+            code: "92d",
+            naam: "Amstel III deel A/B Zuid",
+            dataset: "gebieden"
+        },
+        {
+            _links: {
+                self: {
+                    href: "https://api.data.amsterdam.nl/gebieden/buurt/03630000000487/?format=json"
+                }
+            },
+            _display: "Amstel III deel C/D Noord (T92c)",
+            code: "92c",
+            naam: "Amstel III deel C/D Noord",
+            dataset: "gebieden"
+        },
+        {
+            _links: {
+                self: {
+                    href: "https://api.data.amsterdam.nl/gebieden/buurt/03630000000489/?format=json"
+                }
+            },
+            _display: "Amstel III deel C/D Zuid (T92e)",
+            code: "92e",
+            naam: "Amstel III deel C/D Zuid",
+            dataset: "gebieden"
+        },
+        {
+            _links: {
+                self: {
+                    href: "https://api.data.amsterdam.nl/gebieden/buurt/03630023754001/?format=json"
+                }
+            },
+            _display: "Amstelkwartier Noord (M58g)",
+            code: "58g",
+            naam: "Amstelkwartier Noord",
+            dataset: "gebieden"
+        },
+        {
+            _links: {
+                self: {
+                    href: "https://api.data.amsterdam.nl/gebieden/buurt/03630023754003/?format=json"
+                }
+            },
+            _display: "Amstelkwartier West (M58j)",
+            code: "58j",
+            naam: "Amstelkwartier West",
+            dataset: "gebieden"
+        },
+        {
+            _links: {
+                self: {
+                    href: "https://api.data.amsterdam.nl/gebieden/buurt/03630023754002/?format=json"
+                }
+            },
+            _display: "Amstelkwartier Zuid (M58i)",
+            code: "58i",
+            naam: "Amstelkwartier Zuid",
+            dataset: "gebieden"
+        },
+        {
+            _links: {
+                self: {
+                    href: "https://api.data.amsterdam.nl/gebieden/buurt/03630000000856/?format=json"
+                }
+            },
+            _display: "Amstelpark (K91d)",
+            code: "91d",
+            naam: "Amstelpark",
+            dataset: "gebieden"
+        },
+        {
+            _links: {
+                self: {
+                    href: "https://api.data.amsterdam.nl/gebieden/buurt/03630000000100/?format=json"
+                }
+            },
+            _display: "Amstelveldbuurt (A03d)",
+            code: "03d",
+            naam: "Amstelveldbuurt",
+            dataset: "gebieden"
+        },
+        {
+            _links: {
+                self: {
+                    href: "https://api.data.amsterdam.nl/gebieden/buurt/03630000000849/?format=json"
+                }
+            },
+            _display: "Amsterdamse Bos (K90e)",
+            code: "90e",
+            naam: "Amsterdamse Bos",
+            dataset: "gebieden"
+        },
+        {
+            _links: {
+                self: {
+                    href: "https://api.data.amsterdam.nl/gebieden/buurt/03630000000496/?format=json"
+                }
+            },
+            _display: "Amsterdamse Poort (T93e)",
+            code: "93e",
+            naam: "Amsterdamse Poort",
+            dataset: "gebieden"
+        },
+        {
+            _links: {
+                self: {
+                    href: "https://api.data.amsterdam.nl/gebieden/buurt/03630000000472/?format=json"
+                }
+            },
+            _display: "Andreasterrein (F87b)",
+            code: "87b",
+            naam: "Andreasterrein",
+            dataset: "gebieden"
+        },
+        {
+            _links: {
+                self: {
+                    href: "https://api.data.amsterdam.nl/gebieden/buurt/03630023753960/?format=json"
+                }
+            },
+            _display: "Anjeliersbuurt Noord (A06k)",
+            code: "06k",
+            naam: "Anjeliersbuurt Noord",
+            dataset: "gebieden"
+        },
+        {
+            _links: {
+                self: {
+                    href: "https://api.data.amsterdam.nl/gebieden/buurt/03630023753961/?format=json"
+                }
+            },
+            _display: "Anjeliersbuurt Zuid (A06l)",
+            code: "06l",
+            naam: "Anjeliersbuurt Zuid",
+            dataset: "gebieden"
+        },
+        {
+            _links: {
+                self: {
+                    href: "https://api.data.amsterdam.nl/gebieden/buurt/03630000000588/?format=json"
+                }
+            },
+            _display: "Architectenbuurt (M33h)",
+            code: "33h",
+            naam: "Architectenbuurt",
+            dataset: "gebieden"
+        },
+        {
+            _links: {
+                self: {
+                    href: "https://api.data.amsterdam.nl/gebieden/buurt/03630000000666/?format=json"
+                }
+            },
+            _display: "Baanakkerspark Noord (N68a)",
+            code: "68a",
+            naam: "Baanakkerspark Noord",
+            dataset: "gebieden"
+        },
+        {
+            _links: {
+                self: {
+                    href: "https://api.data.amsterdam.nl/gebieden/buurt/03630000000667/?format=json"
+                }
+            },
+            _display: "Baanakkerspark Zuid (N68b)",
+            code: "68b",
+            naam: "Baanakkerspark Zuid",
+            dataset: "gebieden"
+        }
+    ]
+}
